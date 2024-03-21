@@ -18,7 +18,7 @@ Etapa 1:
 Etapa 2: 
 - Amazon S3 Glacier Deep Archive
 - Armazenamento de dados
-- Para economizar ainda mais em armazenamento de arquivo de longa duração, como arquivos de conformidade e preservação de mídia digital, ele é o armazenamento de menor custo na nuvem com recuperação de dados em 12 horas.Excelente ferramenta para empresas que precisam preservar os dados de clientes de forma segura.
+- Para economizar ainda mais em armazenamento de arquivo de longa duração, como arquivos de conformidade e preservação de mídia digital, ele é o armazenamento de menor custo na nuvem com recuperação de dados em 12 horas. Excelente ferramenta para empresas que precisam preservar os dados de clientes de forma segura.
 
 Etapa 3: 
 - Amazon SNS
