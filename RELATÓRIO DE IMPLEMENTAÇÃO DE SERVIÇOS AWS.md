@@ -28,7 +28,7 @@ Etapa 3:
 
 
 ## Conclusão
-A implementação de ferramentas na empresa Abstergo Industries tem como esperado reduzir custos, melhor aproveitamento de dados para melhores tomadas de decisões e agilidade nas informações, o que aumentará a eficiência e a produtividade da empresa. Recomenda-se a continuidade da utilização das ferramentas implementadas e a busca por novas tecnologias que possam melhorar ainda mais os processos da empresa.
+A implementação de ferramentas na empresa Abstergo Industries tem como esperado reduzir custos, melhor aproveitamento de dados para tomadas de decisões e agilidade nas informações, o que aumentará a eficiência e a produtividade da empresa. Recomenda-se a continuidade da utilização das ferramentas implementadas e a busca por novas tecnologias que possam melhorar ainda mais os processos da empresa.
 
 
 
