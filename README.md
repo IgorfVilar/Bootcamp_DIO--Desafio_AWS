@@ -1,10 +1,10 @@
-# RELATÓRIO DE IMPLEMENTAÇÃO DE SERVIÇOS AWS
+# RELATÓRIOS DE IMPLEMENTAÇÃO DE SERVIÇOS AWS
 
 Empresa: Abstergo Industries 
 Responsável: Igor Fonsêca Vilar
 
 ## Introdução
-Este relatório apresenta o processo de implementação de ferramentas na empresa Abstergo Industries, realizado por Igor Fonsêca Vilar. O objetivo do projeto foi elencar 3 serviços AWS, com a finalidade de realizar diminuição de custos imediatos.
+Estes relatórios apresentam o processo de implementação de ferramentas na empresa Abstergo Industries, realizado por Igor Fonsêca Vilar. O objetivo do projeto foi elencar serviços AWS, com a finalidade de realizar diminuição de custos imediatos e também serviços de segurança para que a empresa mantenha seus dados e usários protegidos e menos vulneráveis.
 
-## Descrição do Projeto
-O projeto de implementação de ferramentas foi dividido em 3 etapas, cada uma com seus objetivos específicos.
+## Descrição dos relatórios
+Cada relatório possui 3 susgestões de ferramentas a serem implementadas na Abstergo Industries, cada uma detalhada com seus objetivos específicos.
